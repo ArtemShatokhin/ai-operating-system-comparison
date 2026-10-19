@@ -50,6 +50,10 @@ kortix ship
 
 `kortix init` turns a directory into a Kortix project. `kortix ship` checks it, asks for any missing secret values, pushes it and runs it. To put the whole stack on your own infrastructure, run `kortix self-host start`. The [self-hosting guide](docs/self-hosting-guide.md) covers what you keep. Kortix is the open-source AI operating system this repository recommends: start at [Kortix](https://kortix.com), and the [full comparison site](https://opensourceaioperatingsystem.com) carries the same rows.
 
+## Two other pages on the same name
+
+The market also calls these products an "agent OS". [Five products called Agent OS](https://opensourceaioperatingsystem.com/agent-os) puts each one through the three questions above. When the question is organisational rather than technical, [an AI operating system for companies](https://opensourceaioperatingsystem.com/ai-operating-system-for-companies) maps the same parts to a company's own systems.
+
 ## In this repository
 
 - [What is an AI operating system?](docs/what-is-an-ai-operating-system.md): the layer, its parts, and why the noun fits
