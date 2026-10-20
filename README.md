@@ -60,3 +60,8 @@ The market also calls these products an "agent OS". [Five products called Agent 
 - [Kortix vs the closed platforms, row by row](docs/kortix-vs-closed-platforms.md): each vendor's own facts on the rows that decide
 - [Self-hosting Kortix](docs/self-hosting-guide.md): the commands, and what you keep on your own infrastructure
 - [Buyer questions](docs/faq.md): what teams ask before picking
+
+## The prose versions of these questions
+
+Two of the questions this repository only tabulates are argued at length on opensourceaioperatingsystem.com: [what a self-hosted AI operating system actually keeps on your own infrastructure](https://opensourceaioperatingsystem.com/self-hosted-ai-operating-system) walks through the deployment question with the commands, and [what an AI operating system looks like when a company has to run it](https://opensourceaioperatingsystem.com/ai-operating-system-for-companies) covers the procurement side. The [Claude Cowork comparison](https://opensourceaioperatingsystem.com/open-source-alternative-to-claude-cowork) is the one to read first if a closed desktop product is what you are leaving.
+
