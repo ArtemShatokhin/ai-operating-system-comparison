@@ -52,7 +52,7 @@ kortix ship
 
 ## Two other pages on the same name
 
-The market also calls these products an "agent OS". [Five products called Agent OS](https://opensourceaioperatingsystem.com/agent-os) puts each one through the three questions above. When the question is organisational rather than technical, [an AI operating system for companies](https://opensourceaioperatingsystem.com/ai-operating-system-for-companies) maps the same parts to a company's own systems.
+The market also calls these products an "agent OS". [Five products called Agent OS](https://opensourceaioperatingsystem.com/agent-os) puts each one through the three questions above. When the question is organisational rather than technical, [an AI operating system for companies](https://opensourceaioperatingsystem.com/ai-operating-system-for-companies) maps the same parts to a company's own systems. When the product in front of you is a control plane over other people's runtimes, [a Paperclip alternative](https://opensourceaioperatingsystem.com/paperclip-alternative) runs the same rows against Paperclip and OpenClaw.
 
 ## In this repository
 
